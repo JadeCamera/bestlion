@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "bestlion",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "978865e0-0e23-4189-bcbd-ce299e665c65",
+			"database_name": "bestlion1"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
